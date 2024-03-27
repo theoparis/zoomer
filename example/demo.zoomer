@@ -1,0 +1,14 @@
+bro really ran the app with @args bet
+  print "Hello world" fr
+  @hello was 3 fr
+  
+  @ip_hello was dox @hello fr
+  print @ip_hello fr
+
+  @hello_deref was swat @ip_hello fr
+  print @hello_deref fr
+
+  print 0.0.0.0 fr 
+
+  you dropped this: 👑 
+fr
